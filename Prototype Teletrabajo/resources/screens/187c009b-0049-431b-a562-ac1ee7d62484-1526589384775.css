@@ -1,0 +1,176 @@
+#s-187c009b-0049-431b-a562-ac1ee7d62484 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 > #alignmentBox {
+  position: relative;
+  max-width: 1024px;
+  max-height: 768px;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 {
+  position: absolute;
+  width: 74px;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 8.0pt;
+  font-family: 'Arial',Arial;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 > .clipping, #s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 .valign {
+  vertical-align: top;
+  text-align: left;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 span {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 8.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 span#rtr-s-Paragraph_1_0 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 8.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Paragraph_1 span#rtr-s-Paragraph_1_1 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12.0pt;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Menu_Bar {
+  position: absolute;
+  width: 723px;
+  height: 43px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Menu_Bar > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Inicio .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Inicio {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Inicio-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-perfil .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-perfil {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-perfil-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Menu_item_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Menu_item_1 {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  cursor: pointer;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Menu_item_1-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Login .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Login {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  cursor: pointer;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Login-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 #s-Menu_Bar > .menuWrapper {
+  height: 43px;
+  width: calc(100% - 0px);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#s-187c009b-0049-431b-a562-ac1ee7d62484 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

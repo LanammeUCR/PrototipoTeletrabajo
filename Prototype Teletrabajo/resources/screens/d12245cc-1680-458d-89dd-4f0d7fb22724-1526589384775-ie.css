@@ -1,0 +1,29 @@
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Inicio {
+  height: 41px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Informacion {
+  height: 41px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Ayuda {
+  height: 41px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Contacto {
+  height: 41px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Login {
+  height: 41px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-y: hidden;
+}
+.devMobile .non_jim_mobile #simulation {
+  overflow-y: hidden;
+}
+.web #simulation {
+  overflow-y: hidden;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

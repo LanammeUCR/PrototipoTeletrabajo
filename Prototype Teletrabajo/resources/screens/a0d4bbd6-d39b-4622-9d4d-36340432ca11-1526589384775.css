@@ -1,0 +1,195 @@
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 > #alignmentBox {
+  position: relative;
+  max-width: 1024px;
+  max-height: 768px;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_Bar {
+  position: absolute;
+  width: 764px;
+  height: 43px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_Bar > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Inicio .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Inicio {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Inicio-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-perfil .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-perfil {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  cursor: pointer;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-perfil-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_1 {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  display: none;
+  cursor: pointer;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_1-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-solicitud_teletrabajo .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-solicitud_teletrabajo {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  display: none;
+  cursor: pointer;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-solicitud_teletrabajo-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_2 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_2 {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  display: none;
+  cursor: pointer;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_2-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_3 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_3 {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  display: none;
+  cursor: pointer;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_3-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_6 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_6 {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  display: none;
+  cursor: pointer;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_item_6-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Login .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Login {
+  background-color: transparent;
+  background-image: none;
+  text-shadow: none;
+  cursor: pointer;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Login-nodetext {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 #s-Menu_Bar > .menuWrapper {
+  height: 43px;
+  width: calc(100% - 0px);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#s-a0d4bbd6-d39b-4622-9d4d-36340432ca11 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
